@@ -4937,7 +4937,11 @@ Ready Components Stylesheet
     visibility: visible;
 } */
 
-
+@media (max-width:500px){
+    .wptb-testimonial1 .wptb-item--inner{
+        padding: 0 0 !important;
+    }
+}
 /* Testimonial */
 .wptb-testimonial1 .wptb-item--inner {
 	position: relative;

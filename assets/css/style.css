@@ -1659,6 +1659,9 @@ body.theme-style--olive {
     .wptb-swiper-navigation.style1 .wptb-swiper-arrow{
         display: none !important;
     }
+    .wptb-testimonial1 .wptb-item--inner .wptb-item--description{
+        font-size: 14px !important;
+    }
   }
 
   .service .swiper-slide img {
