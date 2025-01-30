@@ -1652,6 +1652,13 @@ body.theme-style--olive {
     .service .swiper-slide .target-item{
         width: 100%;
       }
+
+  }
+
+  @media (max-width:500px){
+    .wptb-swiper-navigation.style1 .wptb-swiper-arrow{
+        display: none !important;
+    }
   }
 
   .service .swiper-slide img {
